@@ -1,0 +1,35 @@
+body{
+    background-color:  #FEF2F2;
+    text-align: center;
+    
+    
+}
+
+.navigation{
+    background-color: #60A5FA ;
+    color: white;
+    padding: 1rem;
+    border-bottom-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+
+.nav-brand {
+    font-weight: bold;
+    position: left;
+    font-size: xx-large;
+    padding: 2rem;
+}
+
+.container{
+    padding: 5rem 5rem;
+    background-color: #60A5FA;
+    border-bottom-left-radius:  1rem;
+    border-top-right-radius: 1rem;
+}
+.link{
+    box-sizing: border-box;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    display: block;
+
+}
